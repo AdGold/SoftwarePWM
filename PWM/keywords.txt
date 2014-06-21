@@ -1,0 +1,5 @@
+PWM	KEYWORD1
+analogWrite	KEYWORD2
+update	KEYWORD2
+delay	KEYWORD2
+
